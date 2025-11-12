@@ -1,0 +1,515 @@
+{
+  "sites": [
+    {
+      "id": "cff23b19-78f6-42e2-a137-da331a3b62d8",
+      "key": "shandianziyuan2",
+      "name": "闪电资源",
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.823783447+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "ebdcb66e-7c6d-4818-af28-7831118c99b4",
+      "key": "subodianbo",
+      "name": "速博|点播",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.822858295+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "f1067d07-bbc0-49cb-825c-80b934f4a208",
+      "key": "ukoodianbo",
+      "name": "U酷|点播",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.821989977+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "731997b8-2405-4684-a60b-3038ab2553ac",
+      "key": "suoni",
+      "name": "索尼",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.821351977+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "f081f151-ce6a-4f16-bdbf-07f73f26921a",
+      "key": "yayadianbo",
+      "name": "丫丫|点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.82096491+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "b9f3be1e-8081-4821-80c9-dc8b8542fd36",
+      "key": "huya",
+      "name": "虎牙",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.820468185+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "ab44e308-788e-4f9d-aaa8-a51affd4b821",
+      "key": "huyadianbo",
+      "name": "虎牙|点播",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.817601406+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "e56da0bc-aa11-4132-80c9-d0c763b3531e",
+      "key": "baofengapp",
+      "name": "暴风app",
+      "api": "http://app.bfzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.766541336+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "c8694751-c453-4d04-bd63-e441b2881e84",
+      "key": "shandianziyuan",
+      "name": "闪电资源",
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.766079154+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "b8a00c5e-8590-4579-b5b0-1c7a53e07f79",
+      "key": "jkun",
+      "name": "jkun",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.765871374+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "b76db160-42d9-47d3-a947-f5818195c693",
+      "key": "360dianbo",
+      "name": "360|点播",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.765280071+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "2b99fc7f-408f-4624-9cab-9733e02ebf98",
+      "key": "wolong",
+      "name": "卧龙",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.764481541+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "edc5a716-aca7-4417-881f-97724b87c923",
+      "key": "aosika",
+      "name": "奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.764250399+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "XML"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "ec0dc1fb-24f0-43a6-8062-75ddebb45950",
+      "key": "piaoling",
+      "name": "飘零|点播",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.763072725+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "ddfdcd7f-e86d-4df4-953e-d2753de83fcf",
+      "key": "taopian",
+      "name": "陶片",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.762362367+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "HTML"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "95f0531e-1143-49c4-a662-c7453788664e",
+      "key": "yinghuaziyuan",
+      "name": "樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.759550424+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "fc7bedfd-b688-4a91-ac56-502507a57aa9",
+      "key": "xinlangdianbo",
+      "name": "新浪|点播",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.758570151+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "1ec642d1-7411-40ca-9bd6-a9172690c696",
+      "key": "hongniudianbo",
+      "name": "红牛|点播",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.683294608+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "d181da42-50b2-45e8-ad79-6fdf54df3680",
+      "key": "niuniudianbo",
+      "name": "牛牛|点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.683023804+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "da78b34c-50ff-4472-a4bb-132a0f1fc1b3",
+      "key": "wuji",
+      "name": "无极",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.583484675+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "e627ad27-e5ef-420a-82ba-b5b7cfcffe97",
+      "key": "youzhiziyuanku",
+      "name": "优质资源库",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.577883041+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "baf02a48-cbbc-4d21-a58a-8e905f8af70f",
+      "key": "wujindianbo",
+      "name": "无尽|点播",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.576001546+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "a5ef6fdf-d14a-45a8-ab62-3544a4840afd",
+      "key": "zuidadianbo",
+      "name": "最大|点播",
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.57527038+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "8a540493-e64c-4018-aaec-f8df683de721",
+      "key": "ikun",
+      "name": "ikun",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.572362135+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "c2832ae6-b3cd-4430-b37c-ab2de5f0f393",
+      "key": "1080ziyuanku",
+      "name": "1080资源库",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.571602443+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "7d7a4660-a25a-4ef4-bfd7-9efd4462cd82",
+      "key": "feifan",
+      "name": "非凡",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.512862376+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "a5b7dc6f-3fb2-471a-be18-ceb6be6e74ed",
+      "key": "jisu",
+      "name": "极速",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.508450765+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "92eadee0-221e-4610-ad4c-2e2981b0520e",
+      "key": "modu",
+      "name": "魔都资源",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-11-12T21:12:52.506669008+08:00",
+      "isDefault": 0,
+      "remark": "CMS采集源",
+      "tags": [
+        "CMS",
+        "JSON"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    }
+  ],
+  "exportTime": "2025-11-12T13:36:29.632Z",
+  "total": 28,
+  "filters": {
+    "search": null,
+    "tags": null,
+    "status": null
+  }
+}
